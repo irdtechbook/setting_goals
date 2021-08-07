@@ -17,11 +17,11 @@
 
 === 何％達成すれば成功か？
 
-目標といっても「100%達成して成功」でなくても構いません。Googleで取り入られているOKR（目標と成果指標 / Objectives and Key Results）では「目標の 60～70% の達成率が理想的」とされています。
+目標といっても「100%達成して成功」でなくても構いません。Googleで取り入られているOKR@<fn>{okr}（目標と成果指標 / Objectives and Key Results）では「目標の 60～70% の達成率が理想的」とされています。
 
 目標を60%達成すれば成功と思えるゴールを設定すると、難易度の高い目標に向かって予想外の成果をあげられるようになるとされています。
 
-[Google re:Work - ガイド: OKRを設定する](https://rework.withgoogle.com/jp/guides/set-goals-with-okrs/steps/introduction/)
+//footnote[okr][Google re:Work - ガイド: OKRを設定する (https://rework.withgoogle.com/jp/guides/set-goals-with-okrs/steps/introduction/)]
 
 まずは、目標を設定する際に、何％達成すれば成功なのか？をちゃんと決めておくことが大切です。
 
